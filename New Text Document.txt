@@ -1,0 +1,19 @@
+crud-example/
+├── app/
+│   ├── Http/
+│   │   └── Controllers/
+│   │       └── HomeController.php
+│   ├── Models/
+│   │   └── Student.php
+├── database/
+│   ├── migrations/
+│   │   └── xxxx_xx_xx_create_posts_table.php
+├── resources/
+│   ├── views/
+│   │   ├── display.blade.php
+│   │   ├── home.blade.php
+│   │   └── update_page.blade.php    
+├── routes/
+│   └── web.php
+├── .env
+└── composer.json
