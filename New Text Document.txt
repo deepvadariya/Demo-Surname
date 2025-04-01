@@ -17,3 +17,9 @@ crud-example/
 │   └── web.php
 ├── .env
 └── composer.json
+
+>laravel new demo(project-name)    --- open new project laravel
+>php artisan serve     --- open laravel project command
+>php artisan make:controller (file-name) --- create a controller file
+>php artisan make:model (file-name) -m  --- create a model file & migration file
+>php artisan migrate   --- connect to database
